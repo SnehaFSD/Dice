@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: #4b043f;
+    margin: 0;
+}
+
+h1 {
+    margin: 30px;
+    font-family:"sans-serif";
+    text-shadow: 5px 0 #232931;
+    font-size: 4.5rem;
+    color: #4ecca3;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    color: #4ecca3;
+    font-family: "Indie Flower", cursive;
+}
+.btn {
+    margin:0 10px;
+    padding: 10px 30px;
+    border-radius: 24px;
+    color: #ffffff;
+    background-color:aquamarine;
+    display:inline-block;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+    position: relative;
+  }
+
+
+
